@@ -24,4 +24,4 @@ Power BI Desktop, Power Query, DAX, Excel/CSV
 ├── screenshots/ (dashboard images)
 ```
 ## Project link
-[ ]
+[https://github.com/SarikaBingi/SUPERSTORE-SALES-PROFIT-ANALYTICS-DASHBOARD-using-POWER-BI.git]
