@@ -19,8 +19,8 @@ Power BI Desktop, Power Query, DAX, Excel/CSV
 ## 📁 Files
 ```
 ├── README.md
-├── Superstore_Dashboard.pbix
-├── data/Superstore_Data.csv
+├── SUPERSTORE SALES & PROFIT ANALYTICS.pbix
+├── Superstore+Dataset.xlsx
 ├── screenshots/ (dashboard images)
 ```
 ## Project link
